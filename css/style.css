@@ -1,0 +1,147 @@
+*{padding: 0%;margin: 0%; box-sizing: border-box;}
+
+
+header{
+    background: url(../images/bg.jpg);
+    background-size: cover;
+   min-height:800px;
+   
+}
+.orang{
+    background-color: rgb(255, 72, 0);
+}
+
+
+.d0{
+    min-height:150px;
+    margin-left: 100px;
+   
+}
+.d1{
+    min-height: 150px;
+    background-color: rgba(61, 102, 60, 0.777);
+}
+.d2{
+    min-height: 150px;
+    background-color:rgba(233, 89, 22, 0.467);
+}
+.d3{
+    min-height: 150px;
+    background-color: rgba(61, 102, 60, 0.777);
+}
+.d4{
+   min-height: 150px;
+    background-color:  rgba(61, 102, 60, 0.777);
+}
+.d5{
+    height: 150px;
+    background-color: rgba(61, 102, 60, 0.777);
+}
+.mm{
+    height: 100px;
+    padding-top: 50px;
+    
+}
+.sec-one{
+   min-height: 300px;
+}
+.sec-one h3{
+    color: tomato;
+}
+ .sec-one hr{
+    width: 50%;
+    margin: auto;
+    margin-top:10px;
+    margin-bottom:10px ;
+}
+.about{
+    min-height:500px;
+   
+}
+
+.div1{
+   min-height:250px;
+}
+.about img{
+    min-height:330px ;
+}
+
+.process{
+    background: url(../images/process-bg.jpg);
+    background-size: cover;
+     min-height: 500px;
+    background-repeat:no-repeat ;
+}
+.process1{
+    height: 250px;
+    background: url(../images/p-bg1.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.process2{
+    height: 250px;
+    background: url(../images/p-bg2.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.process3{
+    height: 250px;
+    background: url(../images/p-bg3.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.process4{
+    height: 250px;
+    background: url(../images/p-bg4.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.process img{
+    padding-top:100px;
+}
+.plog{
+    min-height: 600px;
+}
+.card1{
+min-height:250px;
+}
+.clear{
+    clear: both;
+}
+.card2{
+    min-height:300px;
+}
+.bb
+  {
+height: 270px;
+  }
+.card3{
+    min-height:270px ;
+   
+}
+.port{
+    height: 200px;
+    background-color: orangered;
+}
+.team{
+    min-height: 400px;
+   
+}
+.icon{
+    font-size: 100px;
+    color: gray;
+}
+.ma{
+
+   min-height: 250px;
+    background-color: rgb(255, 72, 0);
+   left: 40%;
+  
+}
+.map{
+    height: 300px;
+   color:whitesmoke;
+}
+footer{
+    height: 100px;
+}
